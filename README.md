@@ -1,12 +1,13 @@
-[![MasterHead](https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif)
+<p align="center"> <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="MasterHead" /> </p>
 <h1 align="center">Hi 👋, I'm Muhammed Magdy</h1>
 <h3 align="center">A passionate frontend - backend developer from Egypt</h3>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamedmagdy97&label=Profile%20views&color=0e75b6&style=flat" alt="muhamedmagdy97" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamedmagdy97&theme=matrix&margin-w=15" alt="muhamedmagdy97" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamedmagdy97" alt="muhamedmagdy97" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamedmagdy97&label=Profile%20views&color=0e75b6&style=flat" alt="muhamedmagdy97" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuhamedMagdy97](https://github.com/MuhamedMagdy97)
 
