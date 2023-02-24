@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/mohamed-magdy-50a2ab240**
 
-- 📄 Know about my experiences [file:///M:/jobs/cv/Mohammed%20Magdy%20++.pdf](file:///M:/jobs/cv/Mohammed%20Magdy%20++.pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OCrF5ITCBNgcnRsfrmXtlJ34pHwUue_Y/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
